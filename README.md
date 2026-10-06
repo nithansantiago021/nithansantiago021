@@ -1,6 +1,6 @@
 # Hi there, I'm Nithan 👋
 
-### **Environmental Data Scientist & AI Engineer** 
+### **Data Scientist | AI/ML Engineer | Environmental & Geospatial Analytics** 
 Specializing in production-grade GenAI systems, RAG workflows, geospatial intelligence, and data-driven environmental analytics. Bridging the gap between complex climate modeling and scalable software engineering.
 
 ---
@@ -13,18 +13,27 @@ Specializing in production-grade GenAI systems, RAG workflows, geospatial intell
 
 ---
 
-### 🛠️ Tech Stack & Tools
-* **Languages & Core:** Python, SQL
-* **GenAI & LLMs:** RAG Frameworks (LangChain, LlamaIndex), Transformers, Hugging Face, vLLM
-* **Data Engineering & Ops:** Docker, Kubernetes, MySQL, ETL Pipelines, Git/GitHub, Linux (Ubuntu)
-* **Geospatial & Analysis:** Google Earth Engine, QGIS, Spatial-Temporal Modeling, Statistical Analysis
+### 🛠️ Tech Stack & Architecture
+
+* **Languages & Core:** Python, SQL (MySQL, PostgreSQL)
+* **Generative AI & LLMs:** RAG Architectures, Agentic Workflows, LangChain, LlamaIndex, Hugging Face, vLLM
+* **Data Engineering & Cloud:** ETL/ELT Pipelines, Vector Databases (ChromaDB, pgvector), Docker, Linux (Ubuntu), Git/GitHub
+* **Geospatial & Analytics:** Google Earth Engine (GEE), QGIS, Spatial-Temporal Modeling, Statistical & Predictive Analysis
 
 ---
 
 ### 🚀 Featured Projects
-* **ESG Intelligence Platform:** An end-to-end RAG system built for ESG, BRSR etc. Documents QA, clause retrieval, and summarization using vector databases.
-* **Flight Tracking ETL Pipeline:** Robust automated pipeline fetching live aviation data via API, cleaning transformations, and loading into a relational MySQL database.
-* **ENSO-IOD Link Analysis (Dissertation):** Investigated teleconnections between climate phenomena using advanced statistical modeling and geospatial techniques.
-* **Marketing Campaign Analytics & Text-to-SQL Agent:** Analytics application built with Python and Streamlit to evaluate campaign performance dynamically.
+
+* **ESG & BRSR Intelligence Platform**  
+  *Architected an end-to-end AI platform using RAG and vector embeddings to automate sustainability report QA, clause retrieval, and compliance metric extraction from PDF filings.*
+
+* **Flight Tracking ETL Pipeline**  
+  *Engineered an automated, fault-tolerant ETL pipeline fetching real-time aviation data via REST APIs, running automated data validation, and syncing structured records into a MySQL database.*
+
+* **Marketing Campaign Analytics & Text-to-SQL Agent**  
+  *Developed an interactive analytical application powered by Streamlit and a custom Text-to-SQL agent, enabling non-technical stakeholders to query complex spend metrics using natural language.*
+
+* **ENSO–IOD Teleconnection Analysis (M.Sc. Dissertation)**  
+  *Analyzed complex climate interactions using spatial-temporal modeling and geospatial statistics to map multi-decadal correlations between ENSO and Indian Ocean Dipole phenomena.*
 
 ---
